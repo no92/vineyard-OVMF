@@ -1,0 +1,11 @@
+--- OvmfPkg/OvmfPkgX64.fdf	2017-03-26 17:01:47.324258000 +0200
++++ OvmfPkg/OvmfPkgX64.fdf	2017-03-26 17:02:22.321889038 +0200
+@@ -245,7 +245,7 @@
+ INF  MdeModulePkg/Universal/Console/ConPlatformDxe/ConPlatformDxe.inf
+ INF  MdeModulePkg/Universal/Console/ConSplitterDxe/ConSplitterDxe.inf
+ INF  MdeModulePkg/Universal/Console/GraphicsConsoleDxe/GraphicsConsoleDxe.inf
+-INF  MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe.inf
++# INF  MdeModulePkg/Universal/Console/TerminalDxe/TerminalDxe.inf
+ INF  MdeModulePkg/Universal/DriverHealthManagerDxe/DriverHealthManagerDxe.inf
+ INF  MdeModulePkg/Universal/BdsDxe/BdsDxe.inf
+ INF  MdeModulePkg/Application/UiApp/UiApp.inf
